@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Gabriel Lopes Carvalho<br>🎓 Recent Computer Science graduate from Temple University<br>💻 Passionate about software development and data science<br>🌟 Experienced in building impactful projects like a Baseball Prediction Webpage and Live Transcript Software<br>🚀 Skilled in Python, Java, JavaScript, SQL, and tools like AWS, Tableau, and MongoDB<br>🌍 Fluent in English and Portuguese and starting to learn Japanese<br>📫 Let's connect!
+👋 Hi there! I'm Gabriel Lopes Carvalho<br>💻 Business Intelligence @GulfOilBrasil<br>🎓 Computer Science graduate from Temple University<br>🚀 Skilled in Python, Java, JavaScript, SQL, and tools like AWS, Tableau, and MongoDB<br>🌍 Fluent in English and Portuguese and starting to learn Japanese<br>📫 Let's connect!
 
 
 ## 🌐 Socials:
